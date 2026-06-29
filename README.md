@@ -1,2 +1,31 @@
-# 06-Customer-Retention-Analysis
-Customer retention and churn analysis project focused on cohort analysis, retention metrics, and customer behavior insights.
+# Customer Retention Analysis
+
+Analytics project focused on customer retention, churn analysis, and customer behavior.
+
+## Business Problem
+
+Identify why customers stop purchasing and discover opportunities to improve retention.
+
+## Tools Used
+
+- SQL
+- Python
+- Power BI
+
+## KPIs
+
+- Retention Rate
+- Churn Rate
+- Repeat Purchase Rate
+- Customer Lifetime Value (CLV)
+
+## Deliverables
+
+- Cohort Analysis
+- Churn Analysis
+- Dashboard
+- Business Recommendations
+
+## Status
+
+Planned 🚀
