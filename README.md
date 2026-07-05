@@ -94,7 +94,7 @@ This project aims to:
 
 ### Customer Churn Analysis
 
-![Customer Churn Analysis](dashboard_screenshots/customer_churn_analysis.png)
+![Customer Churn Analysis](dashboard_screenshots/churn_analysis.png)
 
 ### Advanced Churn Drivers
 
